@@ -1,2 +1,3 @@
-# My First AI Coffee Shop (Python)
- Hope everyone enjoys this script!
+Welcome to my first lab in Python!
+
+I hope you have an amazing day!
